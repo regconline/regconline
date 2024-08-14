@@ -1,6 +1,9 @@
 REGC: Research and Engineering for Global Change
 ================================================
 
+![My Project Logo](https://github.com/regconline/regconline/blob/main/Research%20Consulting%20%20Development.png)
+
+
 Overview
 --------
 
